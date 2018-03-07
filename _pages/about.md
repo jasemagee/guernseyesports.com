@@ -11,3 +11,5 @@ We want E-Sports to be open to all and are committed to keeping attendees costs 
 Over the next year we are looking to create regular gaming events building up to an inter-insular against Jersey, in quarter 3 of 2018. Our long term goals include organising the first E-Sports Island Games to be run alongside the Guernsey Island games in 2021.
 
 We value input from anyone interested and would love to see you at one of our upcoming events.
+
+Please contact us by emailing us at <a href="mailto:contact@guernseyesports.com">contact@guernseyesports.com</a>.

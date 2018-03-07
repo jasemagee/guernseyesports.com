@@ -5,7 +5,7 @@ layout: single
 ---
 One of our goals is to provide low cost access to e-sports to those looking for fun and casual competition. Donations from our sponsors help us to keep costs to a minimum. 
 
-If you are interested in supporting E-Sports in guernsey please email us at <a href="mailto:gsyesports@jasemagee.com">gsyesports@jasemagee.com</a>.
+If you are interested in supporting E-Sports in guernsey please email us at <a href="mailto:contact@guernseyesports.com">contact@guernseyesports.com</a>.
 
 ### The Digital Greenhouse
 The location of the majority of our events, the Digital Greenhouse provides not just a space to meet but also logistical support in organising and promoting events. We are also grateful for the use of their computers and AV equipment without which our events would be very different.

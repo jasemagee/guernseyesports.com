@@ -16,6 +16,13 @@ gallery:
     alt: "Mario Kart Winner Jason Magee"
     title: "Mario Kart Winner Jason Magee"
 ---
+
+## Mario Kart 2
+
+{% include figure image_path="/assets/images/2018/mario-kart-2-jason-magee-winner.jpg" alt="Mario Kart 2" caption="Winner for the second Mario kart event is Jason Magee!
+
+Make sure you come down to Digital ACE to see our stand and enter our Mario Kart competition!" %}
+
 ## Event 3 - The road to CS:GO
 
 {% include figure image_path="/assets/images/2017/rob.jpg" alt="Hero Rob Vaudin" caption="In war, the guys back at base keeping everything operational are just as important as the soldiers in the field. And while there was some impressive gaming, the real hero of the night was Rob Vaudin. Protected by no more than a grimace he waded into the matrix and emerged with a full operational local CS:GO that made the evening's event fun and lag free. 
