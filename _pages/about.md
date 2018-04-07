@@ -13,3 +13,5 @@ Over the next year we are looking to create regular gaming events building up to
 We value input from anyone interested and would love to see you at one of our upcoming events.
 
 Please contact us by emailing us at <a href="mailto:contact@guernseyesports.com">contact@guernseyesports.com</a>.
+
+We also have a Discord you can join <a href="">here</a> and a Steam Group <a href="http://steamcommunity.com/groups/guernseyesports">here</a>.
