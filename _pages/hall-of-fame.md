@@ -17,6 +17,9 @@ gallery:
     title: "Mario Kart Winner Jason Magee"
 ---
 
+## Rocket League Rampage 2
+{% include figure image_path="/assets/images/2018/rocket-league-2-winners.jpg" alt="Rocket League Rampage 2" caption="Daniel and Joël were victorious in our second Rocket League knockout tournament. They beat 6 other teams." %}
+
 ## Mario Kart 2
 
 {% include figure image_path="/assets/images/2018/mario-kart-2-jason-magee-winner.jpg" alt="Mario Kart 2" caption="Winner for the second Mario kart event is Jason Magee!
