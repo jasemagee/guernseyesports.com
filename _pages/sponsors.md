@@ -2,6 +2,7 @@
 title: Sponsors
 permalink: /sponsors/
 layout: single
+brief: Find out more about what's happening in Guernsey eSports
 ---
 One of our goals is to provide low cost access to e-sports to those looking for fun and casual competition. Donations from our sponsors help us to keep costs to a minimum. 
 

@@ -1,7 +1,7 @@
 ---
 title:  "Retro Gaming Lunch Trial"
 date:   2017-06-30 19:30:00 +0100
-categories: event
+categories: event news
 layout: single
 ---
 

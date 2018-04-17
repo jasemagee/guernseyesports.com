@@ -1,0 +1,41 @@
+<div class="container no-pad-bot">
+    <nav class="grey darken-3" role="navigation">
+        <div class="nav-wrapper">
+            <a id="logo-container" href="/" class="brand-logo"><img id="header-logo" class="responsive-img" src="/assets/images/gesa-white-logo.png"></a>
+            <ul id="top-nav" class="right hide-on-med-and-down">
+                {% for nav in site.data.navigation.main %}
+                <li>
+                    <a href="{{ nav.url }}">{{ nav.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+
+            <ul id="nav-mobile" class="sidenav">
+                {% for nav in site.data.navigation.main %}
+                <li>
+                    <a href="{{ nav.url }}">{{ nav.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+            <a href="#" data-target="nav-mobile" class="sidenav-trigger">
+                <i class="material-icons">menu</i>
+            </a>
+        </div>
+    </nav>
+    <div id="{% if page.url == '/' %}default-banner{% else %}default-banner-single{% endif %}">
+        <div id="default-banner-inner" class="center-align white-text">
+            {% if page.url == '/' %}
+            <h1><b>Guernsey eSports Association</b></h1>
+            <p>GESA was founded in June 2017 with a goal of promoting and supporting E-Sports in Guernsey and further afield.
+                We believe there is a place in E-Sports for casual players as well as competitive matches. Therefore were
+                are looking to facilitate events ranging from casual gaming meetups through to top level tournaments.</p>
+            <a id="default-banner-button" class="center-align">Learn More</a>
+            {% else %}
+            <h1><b>{{ page.title | upcase }}</b></h1>
+            {% if page.brief %}
+            <p>{{ page.brief }}</p>
+            {% endif %}
+            {% endif %}
+        </div>
+    </div>
+</div>

@@ -1,7 +1,7 @@
 ---
 title:  "The road to CS:GO"
 date:   2017-10-18 12:00:00 +0100
-categories: event
+categories: event news
 layout: single
 ---
 

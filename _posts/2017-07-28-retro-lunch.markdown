@@ -1,7 +1,7 @@
 ---
 title:  "Retro Gaming Lunch"
 date:   2017-07-28 12:00:00 +0100
-categories: event
+categories: event news
 layout: single
 ---
 

@@ -1,8 +1,9 @@
 ---
 title:  "Digital ACE Mario Kart Results"
 date:   2018-02-10 12:00:00 +0100
-categories: event
+categories: event news
 layout: single
+image: /assets/images/games/mario-kart.jpg
 ---
 
 Here's the final results from the Digital ACE Mario Kart Competition. Riley Paisley was the winner and has been given his Nintendo Switch. Congratulations to Riley! 

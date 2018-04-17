@@ -1,7 +1,7 @@
 ---
 title:  "Rocket League Rampage"
 date:   2017-09-13 19:30:00 +0100
-categories: event
+categories: event news
 layout: single
 ---
 

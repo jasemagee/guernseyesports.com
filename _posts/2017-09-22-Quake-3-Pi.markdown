@@ -1,7 +1,7 @@
 ---
 title:  "Raspberry Pi Quake 3 build and play session"
 date:   2017-09-22 12:00:00 +0100
-categories: event
+categories: event news
 layout: single
 ---
 A huge thanks to Adrian Ritchie who stepped in at the last minute with Rob’s notes to lead this national coding week session. 

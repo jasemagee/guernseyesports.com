@@ -2,6 +2,7 @@
 title: Hall of Fame
 permalink: /hall-of-fame/
 layout: single
+brief: Find out more about what's happening in Guernsey eSports
 gallery:
   - url: /assets/images/2017/rob.jpg
     image_path: /assets/images/2017/rob-th.jpg
